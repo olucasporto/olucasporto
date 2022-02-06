@@ -5,7 +5,7 @@
 - 🔭 I’m currently working at **[AMF Promotora](https://www.amfpromotora.com.br/home)**
 - ⚡ Fun fact: **[ENTP](https://www.16personalities.com/entp-personality)**
 
-## 🌱 &nbsp;Learning...
+## 🌱 &nbsp;Learning
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -18,8 +18,8 @@
 
 ## 👨🏽‍🦲 &nbsp;Social Links
 
-<a href="mailto:olucasporto@gmail.com">
-  <img align="center" src="https://img.shields.io/badge/-olucasporto@gmail.com-05122A?style=flat&logo=gmail" alt="gmail"/>
+<a href="mailto:olucasporto@gmail.com" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-olucasporto@gmail.com-05122A?style=flat&logo=gmail" alt="olucasporto@gmail.com"/>
 </a>
 <a href="https://www.instagram.com/porto.gif/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-porto.gif-05122A?style=flat&logo=instagram" alt="instagram"/>
