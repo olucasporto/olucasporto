@@ -1,4 +1,4 @@
-<h1 align="left">Hi there Delilah <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Lucas Porto</h1>
+<h1 align="left">Hey there Delilah <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Lucas Porto</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olucasporto&color=blue" alt="Profile views" /> </p>
 
 - 🔥 Junior Developer focused on learning 
