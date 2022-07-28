@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olucasporto&color=blue" alt="Profile views" /> </p>
 
 - 🔭 I’m currently working at **[AMF Promotora](https://www.amfpromotora.com.br/home)**
-- ⚡ Fun fact: **[ENTP](https://www.16personalities.com/entp-personality)**
+- ⚡ Fun fact: **[ENTJ](https://www.16personalities.com/entj-personality)**
 
 ## 🌱 &nbsp;Learning
 
