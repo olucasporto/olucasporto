@@ -1,10 +1,11 @@
 <h1 align="left">Hey there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width=5%>, I'm Lucas Porto</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olucasporto&color=blue" alt="Profile views" /> </p>
 
+- 📈 Data Analyst
 - 🔭 I’m currently working at **[AMF Promotora](https://www.amfpromotora.com.br/home)**
 - ⚡ Fun fact: **[ENTP](https://www.16personalities.com/entp-personality)**
 
-## :technologist: &nbsp;Skills
+## 💻 &nbsp;Skills
 
 ![Microsoft Excel](https://img.shields.io/badge/-Microsoft_Excel-05122A?style=flat&logo=microsoftexcel)&nbsp;
 ![Power BI](https://img.shields.io/badge/-Power_BI-05122A?style=flat&logo=powerbi)&nbsp;
