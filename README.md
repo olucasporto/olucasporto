@@ -20,3 +20,6 @@
 <a href="https://www.instagram.com/o_lucasporto/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-o_lucasporto-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
+<a href="https://www.linkedin.com/in/o-lucas-porto/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-o_lucasporto-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
