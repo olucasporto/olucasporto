@@ -1,7 +1,7 @@
 <h1 align="left">Hey there 👋, I'm Lucas Porto</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olucasporto&color=blue" alt="Profile views" /> </p>
 
-- 💻 BackEnd Developer
+- 💻 FullStack Developer
 - 🔭 I’m currently working at **[AMF Promotora](https://www.amfpromotora.com.br/home)**
 
 ## 💻 &nbsp;Skills
